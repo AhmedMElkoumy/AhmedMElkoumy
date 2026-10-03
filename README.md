@@ -30,3 +30,19 @@
 | [**Houmies_flutter**](https://github.com/AhmedMElkoumy/Houmies_flutter) | Home-chef food marketplace app: onboarding, cart, checkout, orders, wallet, map-based addresses, AR/EN | Flutter · GetX · flutter_map |
 | [**zafafak_frontend**](https://github.com/AhmedMElkoumy/zafafak_frontend) | Saudi wedding-services marketplace: vendors, packages, planner, bookings, digital invitations with QR | Next.js · TypeScript · Motion |
 | [**ahmed-elkoumy-portfolio**](https://github.com/AhmedMElkoumy/ahmed-elkoumy-portfolio) | My bilingual portfolio at [amelkoumy.com](https://amelkoumy.com) | Next.js · next-intl · shadcn/ui |
+
+### 📡 Closed-source work (built at RunProf)
+
+- **Inara**: LoRa-mesh street-light monitoring network (IoT)
+- **Hum Sensor**: temperature/humidity data logger (IoT)
+- **Sayes**: smart-parking system integration (IoT)
+- **Hotel PMS**: reservations, guest folios and billing for a hotel group
+
+---
+
+### 📫 Get in touch
+
+[![Website](https://img.shields.io/badge/amelkoumy.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amelkoumy.com)
+[![Email](https://img.shields.io/badge/Email-ahmedmelkoumy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmelkoumy@gmail.com)
+
+Open to full-stack, IoT and technical product roles in Riyadh, and to freelance builds.
